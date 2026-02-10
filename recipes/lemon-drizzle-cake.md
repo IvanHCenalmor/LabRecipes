@@ -1,5 +1,7 @@
 # Lemon Drizzle Cake
 
+[← Back to Recipe Index](../README.md#recipe-index)
+
 **Shared by:** Guillaume
 **Nationality:** French
 

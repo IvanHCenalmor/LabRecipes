@@ -1,5 +1,7 @@
 # Recipe Name Here
 
+[← Back to Recipe Index](../README.md#recipe-index)
+
 **Shared by:** Name
 **Nationality:** Country
 
