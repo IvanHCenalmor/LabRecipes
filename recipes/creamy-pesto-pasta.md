@@ -5,6 +5,8 @@
 **Shared by:** Iván Hidalgo
 **Nationality:** Italian (maybe not approved by Italians, but it’s a family recipe!)
 
+This creamy pesto pasta is a delicious and easy-to-make dish that combines the fresh flavors of basil and garlic with the richness of cashews and parmesan cheese. It’s perfect for a quick lunch or dinner. The sauce is creamy and flavorful, making it a great way to enjoy your pasta.
+
 ## The Protocol
 
 ### Ingredients
@@ -27,3 +29,5 @@
 7. Add the grated parmesan cheese to the sauce and mix this time with a spoon, this will make the sauce thicker and creamier.
 8. Pour the sauce over the pasta and mix well.
 9. Serve with more parmesan cheese on top and enjoy! 🧀❤️
+
+![Creamy Pesto Pasta](../pictures/creamy-pesto-pasta.jpeg)
